@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  spring-boot-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-19T03:40:30.113072831Z"
+    description: A Helm chart for deploying SpringBoot application on Kubernetes
+    digest: d03492f8e7abf8eb0ad62844d4ba04673767f5d30b8509232d8b1a175c2662d8
+    name: spring-boot-chart
+    type: application
+    urls:
+    - https://github.com/sivaprasadreddy/helm-charts/releases/download/spring-boot-chart-0.1.0/spring-boot-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-19T03:40:29.983678563Z"
